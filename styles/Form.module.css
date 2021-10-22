@@ -1,0 +1,58 @@
+.container {
+    padding: 20px;
+    background: #FFFFFF;
+}
+
+.heading {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #687074;
+}
+
+.btnContainer {
+    text-align: end;
+}
+
+.eventBtn {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #086EA7;
+    background: #FFFFFF;
+    border: 0.5px solid #086EA7;
+    box-sizing: border-box;
+    border-radius: 10px;
+    width: 146px;
+    height: 36px;
+}
+
+.topWrapper {
+    margin-bottom: 25px;
+}
+
+.label {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #687074;
+    margin-bottom: 15px;
+}
+
+.labelNote {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    color: #687074;
+    margin: 0px 0px 10px 0px;
+}
